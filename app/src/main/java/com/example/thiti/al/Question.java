@@ -21,7 +21,7 @@ public class Question {
             "กระต่าย", "เคย", "เหลือง", "เคย", "ม้าลาย"
     };
 
-    private int images[] = {
+    Integer images[] = {
             R.drawable.pic_1,
             R.drawable.img_2,
             R.drawable.pic_2,
